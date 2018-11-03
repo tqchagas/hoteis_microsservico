@@ -25,7 +25,7 @@ SECRET_KEY = '_#m&4lfh68jhwejvrg2r^9$&tir%of!^q*s9u0xecemaykb4pl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hoteis-microsservico.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
