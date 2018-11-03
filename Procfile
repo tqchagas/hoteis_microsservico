@@ -1,0 +1,1 @@
+web: gunicorn hoteis_microsservico.wsgi
